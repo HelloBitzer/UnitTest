@@ -1,0 +1,13 @@
+C:\Users\Nathalie.Bitzer\source\repos\Bank1\Bank1\bin\Debug\netcoreapp3.1\Bank1.exe
+C:\Users\Nathalie.Bitzer\source\repos\Bank1\Bank1\bin\Debug\netcoreapp3.1\Bank1.deps.json
+C:\Users\Nathalie.Bitzer\source\repos\Bank1\Bank1\bin\Debug\netcoreapp3.1\Bank1.runtimeconfig.json
+C:\Users\Nathalie.Bitzer\source\repos\Bank1\Bank1\bin\Debug\netcoreapp3.1\Bank1.runtimeconfig.dev.json
+C:\Users\Nathalie.Bitzer\source\repos\Bank1\Bank1\bin\Debug\netcoreapp3.1\Bank1.dll
+C:\Users\Nathalie.Bitzer\source\repos\Bank1\Bank1\bin\Debug\netcoreapp3.1\Bank1.pdb
+C:\Users\Nathalie.Bitzer\source\repos\Bank1\Bank1\obj\Debug\netcoreapp3.1\Bank1.AssemblyInfoInputs.cache
+C:\Users\Nathalie.Bitzer\source\repos\Bank1\Bank1\obj\Debug\netcoreapp3.1\Bank1.AssemblyInfo.cs
+C:\Users\Nathalie.Bitzer\source\repos\Bank1\Bank1\obj\Debug\netcoreapp3.1\Bank1.csproj.CoreCompileInputs.cache
+C:\Users\Nathalie.Bitzer\source\repos\Bank1\Bank1\obj\Debug\netcoreapp3.1\Bank1.dll
+C:\Users\Nathalie.Bitzer\source\repos\Bank1\Bank1\obj\Debug\netcoreapp3.1\Bank1.pdb
+C:\Users\Nathalie.Bitzer\source\repos\Bank1\Bank1\obj\Debug\netcoreapp3.1\Bank1.genruntimeconfig.cache
+C:\Users\Nathalie.Bitzer\source\repos\Bank1\Bank1\obj\Debug\netcoreapp3.1\Bank1.csprojAssemblyReference.cache
